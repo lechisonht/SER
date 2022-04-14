@@ -1,0 +1,16 @@
+samplerate
+tensorflow==2.6.0
+opencv-python
+librosa
+pandas
+SoundFile
+tqdm
+mutagen
+moviepy
+pydub
+sounddevice
+scipy
+wavio
+Flask
+Flask-Cors
+ipython
